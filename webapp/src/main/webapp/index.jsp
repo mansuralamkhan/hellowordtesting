@@ -10,7 +10,7 @@
     <section id="hero">
         <div class="hero-background" style="background-image: url('background.jpg');"></div>
         <div class="hero-content">
-            <h1>yaaaaa, You are Amazing.</h1>
+            <h1>yaaaaa, You are Amazing.Steady.....</h1>
             <p>I'm a Web dDeveloper, Programmer, and Photographer.</p>
             <a href="#portfolio" class="cta-button">View My Work</a>
         </div>
